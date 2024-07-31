@@ -1,4 +1,6 @@
-# Shopping Cart Application
+# GAME Shopping Cart Application
+![Screenshot 2024-07-31 233955](https://github.com/user-attachments/assets/1a3182fe-a5e5-43b5-9eb2-115ba4a1dd57)
+
 
 This is a simple shopping cart application built with React. Users can add and remove products from the cart and proceed to checkout.
 
@@ -24,61 +26,33 @@ This is a simple shopping cart application built with React. Users can add and r
    ```bash
    git clone https://github.com/your-username/shopping-cart-app.git
    cd shopping-cart-app
+   
 
-   Install the dependencies:
-bash
-Copy code
+Install the dependencies:
+
 npm install
-Running the Application
-Start the development server:
 
-bash
-Copy code
+
+Running the Application
+
+1) Start the development server:
+
 npm start
-Open your browser and navigate to http://localhost:3000.
+
+2) Open your browser and navigate to http://localhost:3000.
 
 Deployment
+
 To deploy the application, build the production version and deploy the build folder to your preferred hosting service:
 
-bash
-Copy code
 npm run build
+
 Contributing
+
 If you want to contribute to this project, please fork the repository and create a pull request with your changes.
 
-License
-This project is licensed under the MIT License.
+   
 
-mathematica
-Copy code
 
-### 3. Using Git for Version Control
 
-Ensure you have a Git repository initialized in your project directory. If not, initialize one:
-
-```bash
-git init
-Add all files to the repository:
-
-bash
-Copy code
-git add .
-Commit your changes with a clear commit message:
-
-bash
-Copy code
-git commit -m "Initial commit with project setup and basic functionality"
-As you continue developing, make sure to commit your changes frequently with descriptive messages. For example:
-
-bash
-Copy code
-git commit -m "Add product image display in cart items"
-git commit -m "Implement checkout button and functionality"
-git commit -m "Update styles with animations and improve layout"
-Push your code to a remote repository on GitHub:
-
-bash
-Copy code
-git remote add origin https://github.com/your-username/shopping-cart-app.git
-git push -u origin main
-
+   
